@@ -1,0 +1,166 @@
+<mxfile host="app.diagrams.net" modified="2024-04-26T13:38:52.619Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="feXbNultoh6bKsURM1fr" version="24.2.7" type="device">
+  <diagram name="Страница — 1" id="0kbCIC5ISSgZ8Ea-iiJs">
+    <mxGraphModel dx="1562" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="meceb2sa-mp3TLlnV_8L-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="meceb2sa-mp3TLlnV_8L-2" target="meceb2sa-mp3TLlnV_8L-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-2" value="Начало" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="meceb2sa-mp3TLlnV_8L-3" target="meceb2sa-mp3TLlnV_8L-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-3" value="Объявление массива arr" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="meceb2sa-mp3TLlnV_8L-7" target="meceb2sa-mp3TLlnV_8L-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-7" value="Вызов функункции" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="meceb2sa-mp3TLlnV_8L-9" target="meceb2sa-mp3TLlnV_8L-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-9" value="Объявление минимума, максимума, мининдекса и максиндекса" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="290" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;for(i &amp;lt; длина массива)&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="380" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="meceb2sa-mp3TLlnV_8L-10" target="meceb2sa-mp3TLlnV_8L-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="320" as="sourcePoint" />
+            <mxPoint x="60" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="meceb2sa-mp3TLlnV_8L-10" target="meceb2sa-mp3TLlnV_8L-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="480" as="sourcePoint" />
+            <mxPoint x="600" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="440" />
+              <mxPoint x="600" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-14" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="410" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-15" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="410" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-17" value="минимум = arr[i]&lt;div&gt;мининдекс =&amp;nbsp; i&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-22" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-26" value="элемент массива &amp;lt; минимума?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="490" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="meceb2sa-mp3TLlnV_8L-26" target="meceb2sa-mp3TLlnV_8L-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="600" as="sourcePoint" />
+            <mxPoint x="280" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-28" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="580" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-29" value="элемент массива &amp;gt; максимума?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="560" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="meceb2sa-mp3TLlnV_8L-17" target="meceb2sa-mp3TLlnV_8L-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="710" as="sourcePoint" />
+            <mxPoint x="300" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="655" />
+              <mxPoint x="290" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="meceb2sa-mp3TLlnV_8L-26" target="meceb2sa-mp3TLlnV_8L-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="570" as="sourcePoint" />
+            <mxPoint x="300" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-32" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="510" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-33" value="максимум = arr[i]&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;макс&lt;/span&gt;индекс =&amp;nbsp; i&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="meceb2sa-mp3TLlnV_8L-29" target="meceb2sa-mp3TLlnV_8L-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="690" as="sourcePoint" />
+            <mxPoint x="700" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-35" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="640" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-36" value="пока мининдекс &amp;lt; максиндекс" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="670" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="meceb2sa-mp3TLlnV_8L-33" target="meceb2sa-mp3TLlnV_8L-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="700" as="sourcePoint" />
+            <mxPoint x="540" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-38" value="Элемент массива(минимальный индекс) = Элемент массива(максимальный индекс)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="760" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="meceb2sa-mp3TLlnV_8L-36" target="meceb2sa-mp3TLlnV_8L-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="820" as="sourcePoint" />
+            <mxPoint x="730" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-40" value="максиндекс++&lt;div&gt;мининдекс++&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="meceb2sa-mp3TLlnV_8L-38" target="meceb2sa-mp3TLlnV_8L-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="950" as="sourcePoint" />
+            <mxPoint x="360" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-44" value="Вывести массив" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="meceb2sa-mp3TLlnV_8L-40" target="meceb2sa-mp3TLlnV_8L-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="750" as="sourcePoint" />
+            <mxPoint x="310" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="800" />
+              <mxPoint x="240" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meceb2sa-mp3TLlnV_8L-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="meceb2sa-mp3TLlnV_8L-44" target="meceb2sa-mp3TLlnV_8L-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="800" as="sourcePoint" />
+            <mxPoint x="50" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
